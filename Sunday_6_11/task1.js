@@ -1,3 +1,5 @@
+"use strict";
+
 let month=prompt("enter your month?");
 switch(month)
 {
