@@ -1,4 +1,4 @@
-let m="orange coding academy";
+// let m="orange coding academy";
 
 // console.log(m.length);
 
@@ -21,3 +21,5 @@ let m="orange coding academy";
 // console.log(m.substr(21));
 // console.log(m.substr(-3));
 // console.log(m.substr(-3,1));
+
+

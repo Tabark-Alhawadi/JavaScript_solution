@@ -9,4 +9,4 @@ function canIGetADrivingLicense(age){
 }
 
 canIGetADrivingLicense(21);
-canIGetADrivingLicense(6)
+canIGetADrivingLicense(6);
