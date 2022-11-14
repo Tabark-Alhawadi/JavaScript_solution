@@ -82,3 +82,64 @@
 // console.log(arr);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////one////////////
+
+
+//  window.localStorage.setItem("color", "red");
+//  window.sessionStorage.setItem("groups", "group one");
+
+
+//////////////////two///////////////////
+// document.querySelector(".name").onblur=function(){
+//    console.log(this.value);
+
+//    window.sessionStorage.setItem("input-name",this.value)
+// };
+
+
+//////////////three////////////
+
+//  window.sessionStorage.setItem("color","blue");
+// window.sessionStorage.fontwight="bold";
+// window.sessionStorage["fontsize"]="30px";
+
+// //how to see it in console
+// console.log(window.sessionStorage.getItem("color"));
+// console.log(window.sessionStorage.fontwight);
+// console.log(window.sessionStorage["fontsize"]);
+
+// //how to get
+// //  document.body.style.background = window.sessionStorage.getItem("color");
+
+// // //how to remove
+// // window.sessionStorage.removeItem("color");
+
+// //remove all
+// //  window.sessionStorage.clear();
+
+// //get key
+// console.log(window.sessionStorage.key(0));
